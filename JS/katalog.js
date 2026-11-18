@@ -1,75 +1,146 @@
 // ============================================================
-// katalog.js – Modul 3: menampilkan katalog dengan DOM
+// katalog.js – Modul 3: menampilkan 500 katalog professional dengan DOM
 // Praktikum Pemrograman Web 1 · Sasirangan Banua
 // ============================================================
 
-// 1. Data katalog: array yang berisi objek-objek produk
-const katalog = [
-  {
-    id: 1,
-    nama: "Kain Motif Gigi Haruan",
-    kategori: "kain",
-    harga: 185000,
-    gambar: "img/gigi-haruan.svg",
-    deskripsi: "Kain katun 2 meter bermotif zig-zag menyerupai gigi ikan haruan.",
-  },
-  {
-    id: 2,
-    nama: "Kain Motif Kambang Kacang",
-    kategori: "kain",
-    harga: 175000,
-    gambar: "img/kambang-kacang.svg",
-    deskripsi: "Motif bunga kacang yang melambangkan keakraban dan kerukunan.",
-  },
-  {
-    id: 3,
-    nama: "Selendang Iris Pudak",
-    kategori: "aksesoris",
-    harga: 120000,
-    gambar: "img/iris-pudak.svg",
-    deskripsi: "Selendang ringan bermotif irisan daun pudak (pandan).",
-  },
-  {
-    id: 4,
-    nama: "Kain Motif Bayam Raja",
-    kategori: "kain",
-    harga: 190000,
-    gambar: "img/bayam-raja.svg",
-    deskripsi: "Kain sasirangan klasik dengan motif daun bayam raja yang melambangkan kemakmuran.",
-  },
-  {
-    id: 5,
-    nama: "Kain Motif Jarum Karang",
-    kategori: "kain",
-    harga: 180000,
-    gambar: "img/jarum-karang.svg",
-    deskripsi: "Motif titik-titik tajam menyerupai karang tajam di perairan.",
-  },
-  {
-    id: 6,
-    nama: "Ikat Kepala Sasirangan",
-    kategori: "aksesoris",
-    harga: 75000,
-    gambar: "img/ikat-kepala.svg",
-    deskripsi: "Ikat kepala atau odeng khas Banjar dengan corak sasirangan.",
-  },
-  {
-    id: 7,
-    nama: "Kain Motif Tampuk Manggis",
-    kategori: "kain",
-    harga: 195000,
-    gambar: "img/tampuk-manggis.svg",
-    deskripsi: "Motif geometris melingkar yang melambangkan kejujuran dan ketulusan.",
-  },
-  {
-    id: 8,
-    nama: "Selendang Kulit Taratak",
-    kategori: "aksesoris",
-    harga: 135000,
-    gambar: "img/kulit-taratak.svg",
-    deskripsi: "Selendang elegan dengan kombinasi warna khas tradisi Banjar.",
+// Generator SVG profesional dengan ID unik, variasi warna, & pola geometris berbeda
+function buatGambarSVG(idUnik, judulMotif, kategori, warnaBg, warnaAksen, tipePola) {
+  const safeId = `item-${idUnik}`;
+
+  // Variasi 5 pola geometris khas wastra agar visual tiap edisi unik & tidak duplikat
+  let elemenPola = "";
+  switch (tipePola % 5) {
+    case 0: // Pola Belah Ketupat (Wajik)
+      elemenPola = `
+        <path d="M25 0 L50 25 L25 50 L0 25 Z" fill="none" stroke="${warnaAksen}" stroke-width="1.5" opacity="0.3"/>
+        <circle cx="25" cy="25" r="4" fill="${warnaAksen}" opacity="0.4"/>`;
+      break;
+    case 1: // Pola Garis Gelombang (Ombak Sinapur)
+      elemenPola = `
+        <path d="M0 25 Q 12.5 10, 25 25 T 50 25" fill="none" stroke="${warnaAksen}" stroke-width="2" opacity="0.35"/>
+        <path d="M0 40 Q 12.5 25, 25 40 T 50 40" fill="none" stroke="${warnaAksen}" stroke-width="1" opacity="0.2"/>`;
+      break;
+    case 2: // Pola Gigi Haruan (Zig-zag Tajam)
+      elemenPola = `
+        <polyline points="0,35 12.5,15 25,35 37.5,15 50,35" fill="none" stroke="${warnaAksen}" stroke-width="1.8" opacity="0.35"/>
+        <circle cx="12.5" cy="28" r="2" fill="${warnaAksen}" opacity="0.4"/>
+        <circle cx="37.5" cy="28" r="2" fill="${warnaAksen}" opacity="0.4"/>`;
+      break;
+    case 3: // Pola Bintang Bahambur (Titik & Silang)
+      elemenPola = `
+        <path d="M25 12 L25 38 M12 25 L38 25" stroke="${warnaAksen}" stroke-width="1.5" opacity="0.3"/>
+        <circle cx="10" cy="10" r="2.5" fill="${warnaAksen}" opacity="0.35"/>
+        <circle cx="40" cy="40" r="2.5" fill="${warnaAksen}" opacity="0.35"/>`;
+      break;
+    default: // Pola Lingkaran Konsentris (Tampuk Manggis)
+      elemenPola = `
+        <circle cx="25" cy="25" r="16" fill="none" stroke="${warnaAksen}" stroke-width="1.5" opacity="0.3"/>
+        <circle cx="25" cy="25" r="7" fill="none" stroke="${warnaAksen}" stroke-width="1.5" opacity="0.4"/>`;
+      break;
   }
+
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+    <defs>
+      <linearGradient id="grad-${safeId}" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="${warnaBg}"/>
+        <stop offset="100%" stop-color="#111111"/>
+      </linearGradient>
+      <pattern id="pola-${safeId}" width="50" height="50" patternUnits="userSpaceOnUse">
+        <rect width="50" height="50" fill="url(#grad-${safeId})"/>
+        ${elemenPola}
+      </pattern>
+    </defs>
+    <rect width="600" height="400" fill="url(#pola-${safeId})"/>
+    <rect x="40" y="40" width="520" height="320" rx="12" fill="none" stroke="${warnaAksen}" stroke-width="2" opacity="0.45"/>
+    <rect x="75" y="130" width="450" height="140" rx="10" fill="#ffffff" fill-opacity="0.95"/>
+    <rect x="210" y="95" width="180" height="30" rx="15" fill="${warnaAksen}"/>
+    <text x="300" y="115" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#1a1a1a" text-anchor="middle" letter-spacing="1.5">${kategori.toUpperCase()}</text>
+    <text x="300" y="185" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#1a1a1a" text-anchor="middle">${judulMotif}</text>
+    <text x="300" y="218" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#666666" text-anchor="middle">Sasirangan Banua · Seri #${String(idUnik).padStart(3, "0")}</text>
+  </svg>`;
+
+  return `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(svg)}`;
+}
+
+// 1. Array Database 500 Produk Otomatis
+const basisMotif = [
+  { nama: "Gigi Haruan", kat: "kain", harga: 185000, bg: "#7c1d2e", aksen: "#f1c40f" },
+  { nama: "Kambang Kacang", kat: "kain", harga: 175000, bg: "#1d5b54", aksen: "#f39c12" },
+  { nama: "Iris Pudak", kat: "aksesoris", harga: 120000, bg: "#49296b", aksen: "#bb8fce" },
+  { nama: "Bayam Raja", kat: "kain", harga: 190000, bg: "#2e5421", aksen: "#82e0aa" },
+  { nama: "Jarum Karang", kat: "kain", harga: 180000, bg: "#1e3a5f", aksen: "#5dade2" },
+  { nama: "Ikat Kepala Banjar", kat: "aksesoris", harga: 75000, bg: "#6e2c00", aksen: "#f8c471" },
+  { nama: "Tampuk Manggis", kat: "kain", harga: 195000, bg: "#512e5f", aksen: "#d7bde2" },
+  { nama: "Kulit Taratak", kat: "aksesoris", harga: 135000, bg: "#78281f", aksen: "#f5b7b1" },
+  { nama: "Ombak Sinapur", kat: "kain", harga: 200000, bg: "#154360", aksen: "#85c1e9" },
+  { nama: "Bintang Bahambur", kat: "kain", harga: 210000, bg: "#1b2631", aksen: "#f4d03f" },
+  { nama: "Kemeja Eksekutif", kat: "pakaian", harga: 275000, bg: "#641e16", aksen: "#f1948a" },
+  { nama: "Blouse Modern", kat: "pakaian", harga: 240000, bg: "#0e6251", aksen: "#48c9b0" },
+  { nama: "Hiris Gagatas", kat: "kain", harga: 185000, bg: "#7e5109", aksen: "#f9e79f" },
+  { nama: "Kulat Karikit", kat: "kain", harga: 175000, bg: "#4d5656", aksen: "#d5dbdb" },
+  { nama: "Syal Etnik", kat: "aksesoris", harga: 95000, bg: "#5b2c6f", aksen: "#d2b4de" }
 ];
+
+// Palet warna variasi tambahan agar tiap edisi memiliki kombinasi warna unik
+const paletWarna = [
+  { bg: "#7c1d2e", aksen: "#f1c40f" },
+  { bg: "#1d5b54", aksen: "#f39c12" },
+  { bg: "#49296b", aksen: "#bb8fce" },
+  { bg: "#2e5421", aksen: "#82e0aa" },
+  { bg: "#1e3a5f", aksen: "#5dade2" },
+  { bg: "#6e2c00", aksen: "#f8c471" },
+  { bg: "#154360", aksen: "#85c1e9" },
+  { bg: "#641e16", aksen: "#f1948a" },
+  { bg: "#0e6251", aksen: "#48c9b0" },
+  { bg: "#7e5109", aksen: "#f9e79f" },
+  { bg: "#2c3e50", aksen: "#e67e22" },
+  { bg: "#4a235a", aksen: "#f5b041" },
+  { bg: "#145a32", aksen: "#abebc6" }
+];
+
+const variasiAdjektif = ["Eksklusif", "Klasik", "Premium", "Deluks", "Modern", "Royal", "Koleksi Utama", "Pesona", "Khas Borneo", "Wastra Nusantara"];
+
+// Generate 500 data produk secara sistematis
+const katalog = [];
+let idCounter = 1;
+
+while (katalog.length < 500) {
+  for (let i = 0; i < basisMotif.length && katalog.length < 500; i++) {
+    const item = basisMotif[i];
+    const indexSaatIni = katalog.length;
+    const adj = variasiAdjektif[indexSaatIni % variasiAdjektif.length];
+    const nomorSeri = Math.floor(indexSaatIni / basisMotif.length) + 1;
+    
+    // Tentukan warna unik berdasarkan perpaduan indeks dan nomor seri
+    const warnaTerpilih = nomorSeri === 1 
+      ? { bg: item.bg, aksen: item.aksen } 
+      : paletWarna[(i + nomorSeri * 3) % paletWarna.length];
+
+    const awalan = item.kat === 'pakaian' ? 'Busana' : item.kat === 'aksesoris' ? 'Aksesori' : 'Kain';
+    const namaProduk = nomorSeri === 1 
+      ? `${awalan} Motif ${item.nama}` 
+      : `${awalan} ${item.nama} ${adj} Ed.${nomorSeri}`;
+      
+    const hargaFinal = item.harga + ((nomorSeri - 1) * 15000);
+    const idProduk = idCounter++;
+
+    katalog.push({
+      id: idProduk,
+      nama: namaProduk,
+      kategori: item.kat,
+      harga: hargaFinal,
+      gambar: buatGambarSVG(
+        idProduk, 
+        `${item.nama} #${nomorSeri}`, 
+        item.kat, 
+        warnaTerpilih.bg, 
+        warnaTerpilih.aksen, 
+        indexSaatIni
+      ),
+      deskripsi: `Koleksi ${item.nama.toLowerCase()} seri #${String(idProduk).padStart(3, '0')} pilihan dengan kualitas tenun terbaik, dirancang khusus untuk kenyamanan dan keindahan gaya etnik Anda.`
+    });
+  }
+}
 
 // 2. Ambil elemen-elemen HTML yang akan dimanipulasi
 const daftarKatalog = document.querySelector("#daftar-katalog");
@@ -80,7 +151,7 @@ const infoJumlah = document.querySelector("#info-jumlah");
 // 3. Status filter yang sedang aktif
 let kategoriAktif = "semua";
 
-// 4. Mengubah angka menjadi format Rupiah, contoh: 185000 -> "Rp 185.000"
+// 4. Mengubah angka menjadi format Rupiah
 function formatRupiah(angka) {
   return new Intl.NumberFormat("id-ID", {
     style: "currency",
@@ -91,85 +162,92 @@ function formatRupiah(angka) {
 
 // 5. Membuat elemen <article> untuk satu produk
 function buatKartu(produk) {
-    const kartu = document.createElement("article");
-    kartu.className = "kartu";
+  const kartu = document.createElement("article");
+  kartu.className = "kartu";
 
-    const gambar = document.createElement("img");
-    gambar.src = produk.gambar;
-    gambar.alt = produk.nama;
-    gambar.width = 600;
-    gambar.height = 400;
-    gambar.loading = "lazy";
+  const gambar = document.createElement("img");
+  gambar.src = produk.gambar;
+  gambar.alt = produk.nama;
+  gambar.width = 600;
+  gambar.height = 400;
+  gambar.loading = "lazy";
 
-    const isi = document.createElement("div");
-    isi.className = "kartu-isi";
+  const isi = document.createElement("div");
+  isi.className = "kartu-isi";
 
-    const label = document.createElement("span");
-    label.className = "label-kategori";
-    label.textContent = produk.kategori;
+  const label = document.createElement("span");
+  label.className = "label-kategori";
+  label.textContent = produk.kategori;
 
-    const judul = document.createElement("h3");
-    judul.textContent = produk.nama;
+  const judul = document.createElement("h3");
+  judul.textContent = produk.nama;
 
-    const deskripsi = document.createElement("p");
-    deskripsi.textContent = produk.deskripsi;
+  const deskripsi = document.createElement("p");
+  deskripsi.textContent = produk.deskripsi;
 
-    const harga = document.createElement("p");
-    harga.className = "harga";
-    harga.textContent = formatRupiah(produk.harga);
+  const harga = document.createElement("p");
+  harga.className = "harga";
+  harga.textContent = formatRupiah(produk.harga);
 
-    isi.append(label, judul, deskripsi, harga);
-    kartu.append(gambar, isi);
-    return kartu;
+  isi.append(label, judul, deskripsi, harga);
+  kartu.append(gambar, isi);
+  return kartu;
 }
 
-// 6. Menampilkan sekumpulan produk ke dalam #daftar-katalog
+// 6. Menampilkan sekumpulan produk ke dalam #daftar-katalog (menggunakan DocumentFragment untuk performa mulus)
 function tampilkanKatalog(daftarProduk) {
-    daftarKatalog.replaceChildren(); // kosongkan isi sebelumnya
-    
-    if (daftarProduk.length === 0) {
-        const kosong = document.createElement("p");
-        kosong.textContent = "Produk tidak ditemukan. Coba kata kunci lain.";
-        daftarKatalog.append(kosong);
-    } else {
-        daftarProduk.forEach((produk) => {
-            daftarKatalog.append(buatKartu(produk));
-        });
-    }
+  if (!daftarKatalog) return;
+  daftarKatalog.replaceChildren();
 
-    if (infoJumlah) {
-        infoJumlah.textContent = `Menampilkan ${daftarProduk.length} dari ${katalog.length} produk`;
-    }
+  if (daftarProduk.length === 0) {
+    const kosong = document.createElement("p");
+    kosong.textContent = "Produk tidak ditemukan. Coba kata kunci lain.";
+    daftarKatalog.append(kosong);
+  } else {
+    const fragment = document.createDocumentFragment();
+    daftarProduk.forEach((produk) => {
+      fragment.append(buatKartu(produk));
+    });
+    daftarKatalog.append(fragment);
+  }
+
+  if (infoJumlah) {
+    infoJumlah.textContent = `Menampilkan ${daftarProduk.length} dari ${katalog.length} produk`;
+  }
 }
 
 // 7. Menyaring katalog berdasarkan kata kunci DAN kategori aktif
 function saringKatalog() {
-    const kataKunci = inputCari.value.trim().toLowerCase();
+  const kataKunci = inputCari ? inputCari.value.trim().toLowerCase() : "";
 
-    const hasil = katalog.filter((produk) => {
-        const cocokKategori = kategoriAktif === "semua" || produk.kategori === kategoriAktif;
-        const cocokKata =
-            produk.nama.toLowerCase().includes(kataKunci) ||
-            produk.deskripsi.toLowerCase().includes(kataKunci);
-        return cocokKategori && cocokKata;
-    });
+  const hasil = katalog.filter((produk) => {
+    const cocokKategori = kategoriAktif === "semua" || produk.kategori === kategoriAktif;
+    const cocokKata =
+      produk.nama.toLowerCase().includes(kataKunci) ||
+      produk.deskripsi.toLowerCase().includes(kataKunci);
+    return cocokKategori && cocokKata;
+  });
 
-    tampilkanKatalog(hasil);
+  tampilkanKatalog(hasil);
 }
 
 // 8. Event: setiap kali pengguna mengetik di kotak pencarian
 if (inputCari) {
-    inputCari.addEventListener("input", saringKatalog);
+  inputCari.addEventListener("input", saringKatalog);
 }
 
 // 9. Event: tombol filter kategori
 tombolFilter.forEach((tombol) => {
-    tombol.addEventListener("click", (e) => {
-        tombolFilter.forEach((t) => t.classList.remove("aktif"));
-        e.target.classList.add("aktif");
-        kategoriAktif = e.target.dataset.kategori;
-        saringKatalog();
+  tombol.addEventListener("click", (e) => {
+    tombolFilter.forEach((t) => {
+      t.classList.remove("aktif");
+      t.setAttribute("aria-pressed", "false");
     });
+    e.currentTarget.classList.add("aktif");
+    e.currentTarget.setAttribute("aria-pressed", "true");
+    kategoriAktif = e.currentTarget.dataset.kategori;
+    saringKatalog();
+  });
 });
 
 // 10. Tampilkan semua produk ketika halaman pertama kali dibuka
