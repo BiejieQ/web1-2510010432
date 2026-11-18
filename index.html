@@ -6,7 +6,7 @@
     <meta name="description" content="Katalog kain dan busana Sasirangan khas Banjarmasin karya pengrajin lokal."> 
     <title>Sasirangan Banua | Kain Khas Banjar</title>
     <link rel="stylesheet" href="css/style.css">
-    <script src="js/katalog.js"></script>
+    <script src="js/katalog.js" defer></script>
 </head>
 <body>
 
@@ -33,31 +33,27 @@
     </section>
 
     <!-- ========== KATALOG ========== -->
-    <section class="bagian" id="katalog">
-      <h2>Katalog Produk</h2>
-      <p>Pilihan kain, busana, dan aksesoris Sasirangan terbaru.</p>
+      <section class="bagian" id="katalog">
+  <h2>Katalog Produk</h2>
+  <p>Pilihan kain, busana, dan aksesoris Sasirangan terbaru.</p>
 
-      <div class="kontrol-katalog">
- <div class="kolom">
- <label for="cari">Cari produk</label>
- <input type="search" id="cari" placeholder="Contoh: kemeja, selendang">
- </div>
- <div class="filter" role="group" aria-label="Filter kategori">
- <button type="button" class="tombol-filter aktif" data-kategori="semua"
- aria-pressed="true">Semua</button>
- <button type="button" class="tombol-filter" data-kategori="kain"
- aria-pressed="false">Kain</button>
- <button type="button" class="tombol-filter" data-kategori="pakaian"
- aria-pressed="false">Pakaian</button>
- <button type="button" class="tombol-filter" data-kategori="aksesoris"
- aria-pressed="false">Aksesoris</button>
- </div>
-</div>
-<p id="info-jumlah" class="info-jumlah" aria-live="polite"></p>
-<div id="daftar-katalog" class="katalog-grid"></div>
-<noscript><p>Aktifkan JavaScript untuk melihat katalog produk.</p></noscript>
-      </div>
-    </section>
+  <div class="kontrol-katalog">
+    <div class="kolom">
+      <label for="cari">Cari produk</label>
+      <input type="search" id="cari" placeholder="Contoh: kemeja, selendang">
+    </div>
+    <div class="filter" role="group" aria-label="Filter kategori">
+      <button type="button" class="tombol-filter aktif" data-kategori="semua" aria-pressed="true">Semua</button>
+      <button type="button" class="tombol-filter" data-kategori="kain" aria-pressed="false">Kain</button>
+      <button type="button" class="tombol-filter" data-kategori="pakaian" aria-pressed="false">Pakaian</button>
+      <button type="button" class="tombol-filter" data-kategori="aksesoris" aria-pressed="false">Aksesoris</button>
+    </div>
+  </div>
+
+  <p id="info-jumlah" class="info-jumlah" aria-live="polite"></p>
+  <div id="daftar-katalog" class="katalog-grid"></div>
+  <noscript><p>Aktifkan JavaScript untuk melihat katalog produk.</p></noscript>
+</section>
 
     <!-- ========== TENTANG ========== --> 
     <section class="bagian" id="tentang"> 

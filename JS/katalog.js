@@ -1,9 +1,9 @@
 // ============================================================
-// katalog.js – Modul 3: menampilkan katalog dengan DOM[cite: 4]
-// Praktikum Pemrograman Web 1 · Sasirangan Banua[cite: 4]
+// katalog.js – Modul 3: menampilkan katalog dengan DOM
+// Praktikum Pemrograman Web 1 · Sasirangan Banua
 // ============================================================
 
-// 1. Data katalog: array yang berisi objek-objek produk[cite: 4]
+// 1. Data katalog: array yang berisi objek-objek produk
 const katalog = [
   {
     id: 1,
@@ -69,7 +69,6 @@ const katalog = [
     gambar: "img/kulit-taratak.svg",
     deskripsi: "Selendang elegan dengan kombinasi warna khas tradisi Banjar.",
   }
-
 ];
 
 // 2. Ambil elemen-elemen HTML yang akan dimanipulasi
@@ -77,15 +76,17 @@ const daftarKatalog = document.querySelector("#daftar-katalog");
 const inputCari = document.querySelector("#cari");
 const tombolFilter = document.querySelectorAll(".tombol-filter");
 const infoJumlah = document.querySelector("#info-jumlah");
+
 // 3. Status filter yang sedang aktif
 let kategoriAktif = "semua";
+
 // 4. Mengubah angka menjadi format Rupiah, contoh: 185000 -> "Rp 185.000"
 function formatRupiah(angka) {
- return new Intl.NumberFormat("id-ID", {
- style: "currency",
- currency: "IDR",
- minimumFractionDigits: 0,
- }).format(angka);
+  return new Intl.NumberFormat("id-ID", {
+    style: "currency",
+    currency: "IDR",
+    minimumFractionDigits: 0,
+  }).format(angka);
 }
 
 // 5. Membuat elemen <article> untuk satu produk
@@ -124,18 +125,52 @@ function buatKartu(produk) {
 
 // 6. Menampilkan sekumpulan produk ke dalam #daftar-katalog
 function tampilkanKatalog(daftarProduk) {
- daftarKatalog.replaceChildren(); // kosongkan isi sebelumnya
- if (daftarProduk.length === 0) {
- const kosong = document.createElement("p");
- kosong.textContent = "Produk tidak ditemukan. Coba kata kunci lain.";
- daftarKatalog.append(kosong);
- }
- daftarProduk.forEach((produk) => {
- daftarKatalog.append(buatKartu(produk));
- });
- infoJumlah.textContent = `Menampilkan ${daftarProduk.length} dari ${katalog.length} produk`;
+    daftarKatalog.replaceChildren(); // kosongkan isi sebelumnya
+    
+    if (daftarProduk.length === 0) {
+        const kosong = document.createElement("p");
+        kosong.textContent = "Produk tidak ditemukan. Coba kata kunci lain.";
+        daftarKatalog.append(kosong);
+    } else {
+        daftarProduk.forEach((produk) => {
+            daftarKatalog.append(buatKartu(produk));
+        });
+    }
 
- // 10. Tampilkan semua produk ketika halaman pertama kali dibuka
-tampilkanKatalog(katalog);
-
+    if (infoJumlah) {
+        infoJumlah.textContent = `Menampilkan ${daftarProduk.length} dari ${katalog.length} produk`;
+    }
 }
+
+// 7. Menyaring katalog berdasarkan kata kunci DAN kategori aktif
+function saringKatalog() {
+    const kataKunci = inputCari.value.trim().toLowerCase();
+
+    const hasil = katalog.filter((produk) => {
+        const cocokKategori = kategoriAktif === "semua" || produk.kategori === kategoriAktif;
+        const cocokKata =
+            produk.nama.toLowerCase().includes(kataKunci) ||
+            produk.deskripsi.toLowerCase().includes(kataKunci);
+        return cocokKategori && cocokKata;
+    });
+
+    tampilkanKatalog(hasil);
+}
+
+// 8. Event: setiap kali pengguna mengetik di kotak pencarian
+if (inputCari) {
+    inputCari.addEventListener("input", saringKatalog);
+}
+
+// 9. Event: tombol filter kategori
+tombolFilter.forEach((tombol) => {
+    tombol.addEventListener("click", (e) => {
+        tombolFilter.forEach((t) => t.classList.remove("aktif"));
+        e.target.classList.add("aktif");
+        kategoriAktif = e.target.dataset.kategori;
+        saringKatalog();
+    });
+});
+
+// 10. Tampilkan semua produk ketika halaman pertama kali dibuka
+tampilkanKatalog(katalog);
