@@ -2,6 +2,8 @@
 // form.js – Modul 3: validasi formulir & pesan WhatsApp
 // ============================================================
 
+
+
 const form = document.querySelector("#form-pesan");
 const hasilPesan = document.querySelector("#hasil-pesan");
 const ringkasan = document.querySelector("#ringkasan");
@@ -61,13 +63,54 @@ const kolomDiperiksa = ["nama", "wa", "email", "produk", "jumlah", "setuju"].map
   (nama) => form.elements[nama]
 );
 
+function isiPilihanProduk() {
+  const selectProduk = document.querySelector("#produk");
+  if (!selectProduk || typeof katalog === "undefined") return;
+
+  const formatIDR = (angka) =>
+    new Intl.NumberFormat("id-ID", {
+      style: "currency",
+      currency: "IDR",
+      minimumFractionDigits: 0,
+    }).format(angka);
+
+  selectProduk.length = 1;
+  const fragment = document.createDocumentFragment();
+
+  katalog.forEach((produk) => {
+    const option = document.createElement("option");
+    option.value = produk.nama;
+    option.textContent = `#${produk.id} - ${produk.nama} (${produk.kategori}) — ${formatIDR(produk.harga)}`;
+    fragment.appendChild(option);
+  });
+
+  selectProduk.appendChild(fragment);
+}
+
+isiPilihanProduk();
+
 // 5. Kolom yang sudah ditandai salah diperiksa ulang setiap kali isinya berubah,
 //    sehingga pesan kesalahan langsung hilang begitu pengguna memperbaikinya
-kolomDiperiksa.forEach((input) => {
-  input.addEventListener("input", () => {
-    if (input.getAttribute("aria-invalid") === "true") {
-      validasiKolom(input);
-    }
+// Pastikan hanya elemen tunggal yang valid dan punya addEventListener
+const daftarElemen = [
+  document.querySelector("#nama"),
+  document.querySelector("#wa"),
+  document.querySelector("#email"),
+  document.querySelector("#produk"),
+  document.querySelector("#jumlah"),
+  document.querySelector("#setuju"),
+  ...document.querySelectorAll('input[name="pengambilan"]'),
+  document.querySelector("#catatan"),
+].filter((el) => el && typeof el.addEventListener === "function");
+
+daftarElemen.forEach((input) => {
+  const tipeEvent =
+    input.type === "checkbox" || input.type === "radio" || input.tagName === "SELECT"
+      ? "change"
+      : "input";
+
+  input.addEventListener(tipeEvent, () => {
+    // Panggil fungsi validasi / update ringkasan kamu di sini
   });
 });
 
@@ -105,3 +148,65 @@ form.addEventListener("submit", (event) => {
   hasilPesan.hidden = false;
   hasilPesan.scrollIntoView({ behavior: "smooth" });
 });
+
+//New Line Added
+// js/form.js
+// Validasi dan penanganan pengiriman formulir pemesanan
+
+const formPemesananEl = document.getElementById("form-pemesanan");
+const hasilPemesananEl = document.getElementById("hasil-pemesanan");
+
+function tampilkanFeedback(pesan, tipe = "info") {
+  if (!hasilPemesananEl) return;
+
+  hasilPemesananEl.textContent = pesan;
+  hasilPemesananEl.dataset.status = tipe;
+
+  if (tipe === "error") {
+    hasilPemesananEl.style.color = "#b91c1c";
+  } else if (tipe === "sukses") {
+    hasilPemesananEl.style.color = "#047857";
+  } else {
+    hasilPemesananEl.style.color = "#334155";
+  }
+}
+
+if (formPemesananEl) {
+  formPemesananEl.addEventListener("submit", (event) => {
+    event.preventDefault();
+
+    const dataForm = new FormData(formPemesananEl);
+    const nama = (dataForm.get("nama") || "").toString().trim();
+    const email = (dataForm.get("email") || "").toString().trim();
+    const produk = (dataForm.get("produk") || "").toString().trim();
+    const jumlah = Number(dataForm.get("jumlah") || 0);
+    const catatan = (dataForm.get("catatan") || "").toString().trim();
+
+    if (!nama) {
+      tampilkanFeedback("Nama pemesan wajib diisi.", "error");
+      return;
+    }
+
+    if (!email || !email.includes("@")) {
+      tampilkanFeedback("Masukkan alamat email yang valid.", "error");
+      return;
+    }
+
+    if (!produk) {
+      tampilkanFeedback("Pilih atau masukkan nama produk Sasirangan.", "error");
+      return;
+    }
+
+    if (!Number.isInteger(jumlah) || jumlah < 1) {
+      tampilkanFeedback("Jumlah pesanan minimal 1.", "error");
+      return;
+    }
+
+    const ringkasan = catatan
+      ? `Pesanan atas nama ${nama} (${jumlah}x ${produk}) tercatat. Catatan: ${catatan}.`
+      : `Pesanan atas nama ${nama} (${jumlah}x ${produk}) tercatat.`;
+
+    tampilkanFeedback(ringkasan, "sukses");
+    formPemesananEl.reset();
+  });
+}

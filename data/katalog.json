@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #1)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #1)."
+  },
+  {
+    "id": 2,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #1)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #1)."
+  },
+  {
+    "id": 3,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #1)",
+    "kategori": "aksesoris",
+    "harga": 135000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #1)."
+  },
+  {
+    "id": 4,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #1)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #1)."
+  },
+  {
+    "id": 5,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #1)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #1)."
+  },
+  {
+    "id": 6,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #1)",
+    "kategori": "aksesoris",
+    "harga": 105000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #1)."
+  },
+  {
+    "id": 7,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #1)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #1)."
+  },
+  {
+    "id": 8,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #1)",
+    "kategori": "aksesoris",
+    "harga": 140000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #1)."
+  },
+  {
+    "id": 9,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #1)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #1)."
+  },
+  {
+    "id": 10,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #1)",
+    "kategori": "pakaian",
+    "harga": 290000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #1)."
+  },
+  {
+    "id": 11,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #1)",
+    "kategori": "pakaian",
+    "harga": 260000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #1)."
+  },
+  {
+    "id": 12,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #1)",
+    "kategori": "aksesoris",
+    "harga": 120000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #1)."
+  },
+  {
+    "id": 13,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #2)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #2)."
+  },
+  {
+    "id": 14,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #2)",
+    "kategori": "kain",
+    "harga": 175000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #2)."
+  },
+  {
+    "id": 15,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #2)",
+    "kategori": "aksesoris",
+    "harga": 125000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #2)."
+  },
+  {
+    "id": 16,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #2)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #2)."
+  },
+  {
+    "id": 17,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #2)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #2)."
+  },
+  {
+    "id": 18,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #2)",
+    "kategori": "aksesoris",
+    "harga": 95000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #2)."
+  },
+  {
+    "id": 19,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #2)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #2)."
+  },
+  {
+    "id": 20,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #2)",
+    "kategori": "aksesoris",
+    "harga": 165000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #2)."
+  },
+  {
+    "id": 21,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #2)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #2)."
+  },
+  {
+    "id": 22,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #2)",
+    "kategori": "pakaian",
+    "harga": 280000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #2)."
+  },
+  {
+    "id": 23,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #2)",
+    "kategori": "pakaian",
+    "harga": 250000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #2)."
+  },
+  {
+    "id": 24,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #2)",
+    "kategori": "aksesoris",
+    "harga": 110000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #2)."
+  },
+  {
+    "id": 25,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #3)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #3)."
+  },
+  {
+    "id": 26,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #3)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #3)."
+  },
+  {
+    "id": 27,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #3)",
+    "kategori": "aksesoris",
+    "harga": 150000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #3)."
+  },
+  {
+    "id": 28,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #3)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #3)."
+  },
+  {
+    "id": 29,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #3)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #3)."
+  },
+  {
+    "id": 30,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #3)",
+    "kategori": "aksesoris",
+    "harga": 85000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #3)."
+  },
+  {
+    "id": 31,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #3)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #3)."
+  },
+  {
+    "id": 32,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #3)",
+    "kategori": "aksesoris",
+    "harga": 155000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #3)."
+  },
+  {
+    "id": 33,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #3)",
+    "kategori": "kain",
+    "harga": 225000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #3)."
+  },
+  {
+    "id": 34,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #3)",
+    "kategori": "pakaian",
+    "harga": 305000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #3)."
+  },
+  {
+    "id": 35,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #3)",
+    "kategori": "pakaian",
+    "harga": 240000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #3)."
+  },
+  {
+    "id": 36,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #3)",
+    "kategori": "aksesoris",
+    "harga": 100000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #3)."
+  },
+  {
+    "id": 37,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #4)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #4)."
+  },
+  {
+    "id": 38,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #4)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #4)."
+  },
+  {
+    "id": 39,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #4)",
+    "kategori": "aksesoris",
+    "harga": 140000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #4)."
+  },
+  {
+    "id": 40,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #4)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #4)."
+  },
+  {
+    "id": 41,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #4)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #4)."
+  },
+  {
+    "id": 42,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #4)",
+    "kategori": "aksesoris",
+    "harga": 75000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #4)."
+  },
+  {
+    "id": 43,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #4)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #4)."
+  },
+  {
+    "id": 44,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #4)",
+    "kategori": "aksesoris",
+    "harga": 145000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #4)."
+  },
+  {
+    "id": 45,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #4)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #4)."
+  },
+  {
+    "id": 46,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #4)",
+    "kategori": "pakaian",
+    "harga": 295000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #4)."
+  },
+  {
+    "id": 47,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #4)",
+    "kategori": "pakaian",
+    "harga": 265000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #4)."
+  },
+  {
+    "id": 48,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #4)",
+    "kategori": "aksesoris",
+    "harga": 125000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #4)."
+  },
+  {
+    "id": 49,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #5)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #5)."
+  },
+  {
+    "id": 50,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #5)",
+    "kategori": "kain",
+    "harga": 180000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #5)."
+  },
+  {
+    "id": 51,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #5)",
+    "kategori": "aksesoris",
+    "harga": 130000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #5)."
+  },
+  {
+    "id": 52,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #5)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #5)."
+  },
+  {
+    "id": 53,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #5)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #5)."
+  },
+  {
+    "id": 54,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #5)",
+    "kategori": "aksesoris",
+    "harga": 100000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #5)."
+  },
+  {
+    "id": 55,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #5)",
+    "kategori": "kain",
+    "harga": 225000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #5)."
+  },
+  {
+    "id": 56,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #5)",
+    "kategori": "aksesoris",
+    "harga": 135000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #5)."
+  },
+  {
+    "id": 57,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #5)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #5)."
+  },
+  {
+    "id": 58,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #5)",
+    "kategori": "pakaian",
+    "harga": 285000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #5)."
+  },
+  {
+    "id": 59,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #5)",
+    "kategori": "pakaian",
+    "harga": 255000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #5)."
+  },
+  {
+    "id": 60,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #5)",
+    "kategori": "aksesoris",
+    "harga": 115000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #5)."
+  },
+  {
+    "id": 61,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #6)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #6)."
+  },
+  {
+    "id": 62,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #6)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #6)."
+  },
+  {
+    "id": 63,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #6)",
+    "kategori": "aksesoris",
+    "harga": 120000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #6)."
+  },
+  {
+    "id": 64,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #6)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #6)."
+  },
+  {
+    "id": 65,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #6)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #6)."
+  },
+  {
+    "id": 66,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #6)",
+    "kategori": "aksesoris",
+    "harga": 90000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #6)."
+  },
+  {
+    "id": 67,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #6)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #6)."
+  },
+  {
+    "id": 68,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #6)",
+    "kategori": "aksesoris",
+    "harga": 160000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #6)."
+  },
+  {
+    "id": 69,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #6)",
+    "kategori": "kain",
+    "harga": 230000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #6)."
+  },
+  {
+    "id": 70,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #6)",
+    "kategori": "pakaian",
+    "harga": 275000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #6)."
+  },
+  {
+    "id": 71,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #6)",
+    "kategori": "pakaian",
+    "harga": 245000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #6)."
+  },
+  {
+    "id": 72,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #6)",
+    "kategori": "aksesoris",
+    "harga": 105000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #6)."
+  },
+  {
+    "id": 73,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #7)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #7)."
+  },
+  {
+    "id": 74,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #7)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #7)."
+  },
+  {
+    "id": 75,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #7)",
+    "kategori": "aksesoris",
+    "harga": 145000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #7)."
+  },
+  {
+    "id": 76,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #7)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #7)."
+  },
+  {
+    "id": 77,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #7)",
+    "kategori": "kain",
+    "harga": 180000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #7)."
+  },
+  {
+    "id": 78,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #7)",
+    "kategori": "aksesoris",
+    "harga": 80000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #7)."
+  },
+  {
+    "id": 79,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #7)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #7)."
+  },
+  {
+    "id": 80,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #7)",
+    "kategori": "aksesoris",
+    "harga": 150000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #7)."
+  },
+  {
+    "id": 81,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #7)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #7)."
+  },
+  {
+    "id": 82,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #7)",
+    "kategori": "pakaian",
+    "harga": 300000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #7)."
+  },
+  {
+    "id": 83,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #7)",
+    "kategori": "pakaian",
+    "harga": 270000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #7)."
+  },
+  {
+    "id": 84,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #7)",
+    "kategori": "aksesoris",
+    "harga": 95000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #7)."
+  },
+  {
+    "id": 85,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #8)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #8)."
+  },
+  {
+    "id": 86,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #8)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #8)."
+  },
+  {
+    "id": 87,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #8)",
+    "kategori": "aksesoris",
+    "harga": 135000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #8)."
+  },
+  {
+    "id": 88,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #8)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #8)."
+  },
+  {
+    "id": 89,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #8)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #8)."
+  },
+  {
+    "id": 90,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #8)",
+    "kategori": "aksesoris",
+    "harga": 105000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #8)."
+  },
+  {
+    "id": 91,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #8)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #8)."
+  },
+  {
+    "id": 92,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #8)",
+    "kategori": "aksesoris",
+    "harga": 140000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #8)."
+  },
+  {
+    "id": 93,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #8)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #8)."
+  },
+  {
+    "id": 94,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #8)",
+    "kategori": "pakaian",
+    "harga": 290000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #8)."
+  },
+  {
+    "id": 95,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #8)",
+    "kategori": "pakaian",
+    "harga": 260000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #8)."
+  },
+  {
+    "id": 96,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #8)",
+    "kategori": "aksesoris",
+    "harga": 120000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #8)."
+  },
+  {
+    "id": 97,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #9)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #9)."
+  },
+  {
+    "id": 98,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #9)",
+    "kategori": "kain",
+    "harga": 175000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #9)."
+  },
+  {
+    "id": 99,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #9)",
+    "kategori": "aksesoris",
+    "harga": 125000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #9)."
+  },
+  {
+    "id": 100,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #9)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #9)."
+  },
+  {
+    "id": 101,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #9)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #9)."
+  },
+  {
+    "id": 102,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #9)",
+    "kategori": "aksesoris",
+    "harga": 95000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #9)."
+  },
+  {
+    "id": 103,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #9)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #9)."
+  },
+  {
+    "id": 104,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #9)",
+    "kategori": "aksesoris",
+    "harga": 165000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #9)."
+  },
+  {
+    "id": 105,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #9)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #9)."
+  },
+  {
+    "id": 106,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #9)",
+    "kategori": "pakaian",
+    "harga": 280000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #9)."
+  },
+  {
+    "id": 107,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #9)",
+    "kategori": "pakaian",
+    "harga": 250000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #9)."
+  },
+  {
+    "id": 108,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #9)",
+    "kategori": "aksesoris",
+    "harga": 110000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #9)."
+  },
+  {
+    "id": 109,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #10)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #10)."
+  },
+  {
+    "id": 110,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #10)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #10)."
+  },
+  {
+    "id": 111,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #10)",
+    "kategori": "aksesoris",
+    "harga": 150000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #10)."
+  },
+  {
+    "id": 112,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #10)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #10)."
+  },
+  {
+    "id": 113,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #10)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #10)."
+  },
+  {
+    "id": 114,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #10)",
+    "kategori": "aksesoris",
+    "harga": 85000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #10)."
+  },
+  {
+    "id": 115,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #10)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #10)."
+  },
+  {
+    "id": 116,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #10)",
+    "kategori": "aksesoris",
+    "harga": 155000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #10)."
+  },
+  {
+    "id": 117,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #10)",
+    "kategori": "kain",
+    "harga": 225000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #10)."
+  },
+  {
+    "id": 118,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #10)",
+    "kategori": "pakaian",
+    "harga": 305000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #10)."
+  },
+  {
+    "id": 119,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #10)",
+    "kategori": "pakaian",
+    "harga": 240000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #10)."
+  },
+  {
+    "id": 120,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #10)",
+    "kategori": "aksesoris",
+    "harga": 100000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #10)."
+  },
+  {
+    "id": 121,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #11)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #11)."
+  },
+  {
+    "id": 122,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #11)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #11)."
+  },
+  {
+    "id": 123,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #11)",
+    "kategori": "aksesoris",
+    "harga": 140000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #11)."
+  },
+  {
+    "id": 124,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #11)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #11)."
+  },
+  {
+    "id": 125,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #11)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #11)."
+  },
+  {
+    "id": 126,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #11)",
+    "kategori": "aksesoris",
+    "harga": 75000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #11)."
+  },
+  {
+    "id": 127,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #11)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #11)."
+  },
+  {
+    "id": 128,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #11)",
+    "kategori": "aksesoris",
+    "harga": 145000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #11)."
+  },
+  {
+    "id": 129,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #11)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #11)."
+  },
+  {
+    "id": 130,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #11)",
+    "kategori": "pakaian",
+    "harga": 295000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #11)."
+  },
+  {
+    "id": 131,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #11)",
+    "kategori": "pakaian",
+    "harga": 265000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #11)."
+  },
+  {
+    "id": 132,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #11)",
+    "kategori": "aksesoris",
+    "harga": 125000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #11)."
+  },
+  {
+    "id": 133,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #12)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #12)."
+  },
+  {
+    "id": 134,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #12)",
+    "kategori": "kain",
+    "harga": 180000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #12)."
+  },
+  {
+    "id": 135,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #12)",
+    "kategori": "aksesoris",
+    "harga": 130000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #12)."
+  },
+  {
+    "id": 136,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #12)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #12)."
+  },
+  {
+    "id": 137,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #12)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #12)."
+  },
+  {
+    "id": 138,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #12)",
+    "kategori": "aksesoris",
+    "harga": 100000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #12)."
+  },
+  {
+    "id": 139,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #12)",
+    "kategori": "kain",
+    "harga": 225000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #12)."
+  },
+  {
+    "id": 140,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #12)",
+    "kategori": "aksesoris",
+    "harga": 135000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #12)."
+  },
+  {
+    "id": 141,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #12)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #12)."
+  },
+  {
+    "id": 142,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #12)",
+    "kategori": "pakaian",
+    "harga": 285000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #12)."
+  },
+  {
+    "id": 143,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #12)",
+    "kategori": "pakaian",
+    "harga": 255000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #12)."
+  },
+  {
+    "id": 144,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #12)",
+    "kategori": "aksesoris",
+    "harga": 115000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #12)."
+  },
+  {
+    "id": 145,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #13)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #13)."
+  },
+  {
+    "id": 146,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #13)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #13)."
+  },
+  {
+    "id": 147,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #13)",
+    "kategori": "aksesoris",
+    "harga": 120000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #13)."
+  },
+  {
+    "id": 148,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #13)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #13)."
+  },
+  {
+    "id": 149,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #13)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #13)."
+  },
+  {
+    "id": 150,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #13)",
+    "kategori": "aksesoris",
+    "harga": 90000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #13)."
+  },
+  {
+    "id": 151,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #13)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #13)."
+  },
+  {
+    "id": 152,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #13)",
+    "kategori": "aksesoris",
+    "harga": 160000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #13)."
+  },
+  {
+    "id": 153,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #13)",
+    "kategori": "kain",
+    "harga": 230000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #13)."
+  },
+  {
+    "id": 154,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #13)",
+    "kategori": "pakaian",
+    "harga": 275000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #13)."
+  },
+  {
+    "id": 155,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #13)",
+    "kategori": "pakaian",
+    "harga": 245000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #13)."
+  },
+  {
+    "id": 156,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #13)",
+    "kategori": "aksesoris",
+    "harga": 105000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #13)."
+  },
+  {
+    "id": 157,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #14)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #14)."
+  },
+  {
+    "id": 158,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #14)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #14)."
+  },
+  {
+    "id": 159,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #14)",
+    "kategori": "aksesoris",
+    "harga": 145000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #14)."
+  },
+  {
+    "id": 160,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #14)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #14)."
+  },
+  {
+    "id": 161,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #14)",
+    "kategori": "kain",
+    "harga": 180000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #14)."
+  },
+  {
+    "id": 162,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #14)",
+    "kategori": "aksesoris",
+    "harga": 80000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #14)."
+  },
+  {
+    "id": 163,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #14)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #14)."
+  },
+  {
+    "id": 164,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #14)",
+    "kategori": "aksesoris",
+    "harga": 150000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #14)."
+  },
+  {
+    "id": 165,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #14)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #14)."
+  },
+  {
+    "id": 166,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #14)",
+    "kategori": "pakaian",
+    "harga": 300000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #14)."
+  },
+  {
+    "id": 167,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #14)",
+    "kategori": "pakaian",
+    "harga": 270000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #14)."
+  },
+  {
+    "id": 168,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #14)",
+    "kategori": "aksesoris",
+    "harga": 95000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #14)."
+  },
+  {
+    "id": 169,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #15)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #15)."
+  },
+  {
+    "id": 170,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #15)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #15)."
+  },
+  {
+    "id": 171,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #15)",
+    "kategori": "aksesoris",
+    "harga": 135000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #15)."
+  },
+  {
+    "id": 172,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #15)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #15)."
+  },
+  {
+    "id": 173,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #15)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #15)."
+  },
+  {
+    "id": 174,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #15)",
+    "kategori": "aksesoris",
+    "harga": 105000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #15)."
+  },
+  {
+    "id": 175,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #15)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #15)."
+  },
+  {
+    "id": 176,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #15)",
+    "kategori": "aksesoris",
+    "harga": 140000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #15)."
+  },
+  {
+    "id": 177,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #15)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #15)."
+  },
+  {
+    "id": 178,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #15)",
+    "kategori": "pakaian",
+    "harga": 290000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #15)."
+  },
+  {
+    "id": 179,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #15)",
+    "kategori": "pakaian",
+    "harga": 260000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #15)."
+  },
+  {
+    "id": 180,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #15)",
+    "kategori": "aksesoris",
+    "harga": 120000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #15)."
+  },
+  {
+    "id": 181,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #16)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #16)."
+  },
+  {
+    "id": 182,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #16)",
+    "kategori": "kain",
+    "harga": 175000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #16)."
+  },
+  {
+    "id": 183,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #16)",
+    "kategori": "aksesoris",
+    "harga": 125000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #16)."
+  },
+  {
+    "id": 184,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #16)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #16)."
+  },
+  {
+    "id": 185,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #16)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #16)."
+  },
+  {
+    "id": 186,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #16)",
+    "kategori": "aksesoris",
+    "harga": 95000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #16)."
+  },
+  {
+    "id": 187,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #16)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #16)."
+  },
+  {
+    "id": 188,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #16)",
+    "kategori": "aksesoris",
+    "harga": 165000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #16)."
+  },
+  {
+    "id": 189,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #16)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #16)."
+  },
+  {
+    "id": 190,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #16)",
+    "kategori": "pakaian",
+    "harga": 280000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #16)."
+  },
+  {
+    "id": 191,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #16)",
+    "kategori": "pakaian",
+    "harga": 250000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #16)."
+  },
+  {
+    "id": 192,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #16)",
+    "kategori": "aksesoris",
+    "harga": 110000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #16)."
+  },
+  {
+    "id": 193,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #17)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #17)."
+  },
+  {
+    "id": 194,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #17)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #17)."
+  },
+  {
+    "id": 195,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #17)",
+    "kategori": "aksesoris",
+    "harga": 150000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #17)."
+  },
+  {
+    "id": 196,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #17)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #17)."
+  },
+  {
+    "id": 197,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #17)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #17)."
+  },
+  {
+    "id": 198,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #17)",
+    "kategori": "aksesoris",
+    "harga": 85000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #17)."
+  },
+  {
+    "id": 199,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #17)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #17)."
+  },
+  {
+    "id": 200,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #17)",
+    "kategori": "aksesoris",
+    "harga": 155000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #17)."
+  },
+  {
+    "id": 201,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #17)",
+    "kategori": "kain",
+    "harga": 225000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #17)."
+  },
+  {
+    "id": 202,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #17)",
+    "kategori": "pakaian",
+    "harga": 305000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #17)."
+  },
+  {
+    "id": 203,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #17)",
+    "kategori": "pakaian",
+    "harga": 240000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #17)."
+  },
+  {
+    "id": 204,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #17)",
+    "kategori": "aksesoris",
+    "harga": 100000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #17)."
+  },
+  {
+    "id": 205,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #18)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #18)."
+  },
+  {
+    "id": 206,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #18)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #18)."
+  },
+  {
+    "id": 207,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #18)",
+    "kategori": "aksesoris",
+    "harga": 140000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #18)."
+  },
+  {
+    "id": 208,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #18)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #18)."
+  },
+  {
+    "id": 209,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #18)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #18)."
+  },
+  {
+    "id": 210,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #18)",
+    "kategori": "aksesoris",
+    "harga": 75000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #18)."
+  },
+  {
+    "id": 211,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #18)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #18)."
+  },
+  {
+    "id": 212,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #18)",
+    "kategori": "aksesoris",
+    "harga": 145000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #18)."
+  },
+  {
+    "id": 213,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #18)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #18)."
+  },
+  {
+    "id": 214,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #18)",
+    "kategori": "pakaian",
+    "harga": 295000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #18)."
+  },
+  {
+    "id": 215,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #18)",
+    "kategori": "pakaian",
+    "harga": 265000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #18)."
+  },
+  {
+    "id": 216,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #18)",
+    "kategori": "aksesoris",
+    "harga": 125000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #18)."
+  },
+  {
+    "id": 217,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #19)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #19)."
+  },
+  {
+    "id": 218,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #19)",
+    "kategori": "kain",
+    "harga": 180000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #19)."
+  },
+  {
+    "id": 219,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #19)",
+    "kategori": "aksesoris",
+    "harga": 130000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #19)."
+  },
+  {
+    "id": 220,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #19)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #19)."
+  },
+  {
+    "id": 221,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #19)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #19)."
+  },
+  {
+    "id": 222,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #19)",
+    "kategori": "aksesoris",
+    "harga": 100000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #19)."
+  },
+  {
+    "id": 223,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #19)",
+    "kategori": "kain",
+    "harga": 225000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #19)."
+  },
+  {
+    "id": 224,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #19)",
+    "kategori": "aksesoris",
+    "harga": 135000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #19)."
+  },
+  {
+    "id": 225,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #19)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #19)."
+  },
+  {
+    "id": 226,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #19)",
+    "kategori": "pakaian",
+    "harga": 285000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #19)."
+  },
+  {
+    "id": 227,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #19)",
+    "kategori": "pakaian",
+    "harga": 255000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #19)."
+  },
+  {
+    "id": 228,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #19)",
+    "kategori": "aksesoris",
+    "harga": 115000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #19)."
+  },
+  {
+    "id": 229,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #20)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #20)."
+  },
+  {
+    "id": 230,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #20)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #20)."
+  },
+  {
+    "id": 231,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #20)",
+    "kategori": "aksesoris",
+    "harga": 120000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #20)."
+  },
+  {
+    "id": 232,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #20)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #20)."
+  },
+  {
+    "id": 233,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #20)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #20)."
+  },
+  {
+    "id": 234,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #20)",
+    "kategori": "aksesoris",
+    "harga": 90000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #20)."
+  },
+  {
+    "id": 235,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #20)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #20)."
+  },
+  {
+    "id": 236,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #20)",
+    "kategori": "aksesoris",
+    "harga": 160000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #20)."
+  },
+  {
+    "id": 237,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #20)",
+    "kategori": "kain",
+    "harga": 230000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #20)."
+  },
+  {
+    "id": 238,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #20)",
+    "kategori": "pakaian",
+    "harga": 275000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #20)."
+  },
+  {
+    "id": 239,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #20)",
+    "kategori": "pakaian",
+    "harga": 245000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #20)."
+  },
+  {
+    "id": 240,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #20)",
+    "kategori": "aksesoris",
+    "harga": 105000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #20)."
+  },
+  {
+    "id": 241,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #21)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #21)."
+  },
+  {
+    "id": 242,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #21)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #21)."
+  },
+  {
+    "id": 243,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #21)",
+    "kategori": "aksesoris",
+    "harga": 145000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #21)."
+  },
+  {
+    "id": 244,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #21)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #21)."
+  },
+  {
+    "id": 245,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #21)",
+    "kategori": "kain",
+    "harga": 180000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #21)."
+  },
+  {
+    "id": 246,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #21)",
+    "kategori": "aksesoris",
+    "harga": 80000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #21)."
+  },
+  {
+    "id": 247,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #21)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #21)."
+  },
+  {
+    "id": 248,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #21)",
+    "kategori": "aksesoris",
+    "harga": 150000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #21)."
+  },
+  {
+    "id": 249,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #21)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #21)."
+  },
+  {
+    "id": 250,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #21)",
+    "kategori": "pakaian",
+    "harga": 300000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #21)."
+  },
+  {
+    "id": 251,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #21)",
+    "kategori": "pakaian",
+    "harga": 270000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #21)."
+  },
+  {
+    "id": 252,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #21)",
+    "kategori": "aksesoris",
+    "harga": 95000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #21)."
+  },
+  {
+    "id": 253,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #22)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #22)."
+  },
+  {
+    "id": 254,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #22)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #22)."
+  },
+  {
+    "id": 255,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #22)",
+    "kategori": "aksesoris",
+    "harga": 135000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #22)."
+  },
+  {
+    "id": 256,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #22)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #22)."
+  },
+  {
+    "id": 257,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #22)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #22)."
+  },
+  {
+    "id": 258,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #22)",
+    "kategori": "aksesoris",
+    "harga": 105000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #22)."
+  },
+  {
+    "id": 259,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #22)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #22)."
+  },
+  {
+    "id": 260,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #22)",
+    "kategori": "aksesoris",
+    "harga": 140000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #22)."
+  },
+  {
+    "id": 261,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #22)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #22)."
+  },
+  {
+    "id": 262,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #22)",
+    "kategori": "pakaian",
+    "harga": 290000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #22)."
+  },
+  {
+    "id": 263,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #22)",
+    "kategori": "pakaian",
+    "harga": 260000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #22)."
+  },
+  {
+    "id": 264,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #22)",
+    "kategori": "aksesoris",
+    "harga": 120000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #22)."
+  },
+  {
+    "id": 265,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #23)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #23)."
+  },
+  {
+    "id": 266,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #23)",
+    "kategori": "kain",
+    "harga": 175000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #23)."
+  },
+  {
+    "id": 267,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #23)",
+    "kategori": "aksesoris",
+    "harga": 125000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #23)."
+  },
+  {
+    "id": 268,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #23)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #23)."
+  },
+  {
+    "id": 269,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #23)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #23)."
+  },
+  {
+    "id": 270,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #23)",
+    "kategori": "aksesoris",
+    "harga": 95000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #23)."
+  },
+  {
+    "id": 271,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #23)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #23)."
+  },
+  {
+    "id": 272,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #23)",
+    "kategori": "aksesoris",
+    "harga": 165000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #23)."
+  },
+  {
+    "id": 273,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #23)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #23)."
+  },
+  {
+    "id": 274,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #23)",
+    "kategori": "pakaian",
+    "harga": 280000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #23)."
+  },
+  {
+    "id": 275,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #23)",
+    "kategori": "pakaian",
+    "harga": 250000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #23)."
+  },
+  {
+    "id": 276,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #23)",
+    "kategori": "aksesoris",
+    "harga": 110000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #23)."
+  },
+  {
+    "id": 277,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #24)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #24)."
+  },
+  {
+    "id": 278,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #24)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #24)."
+  },
+  {
+    "id": 279,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #24)",
+    "kategori": "aksesoris",
+    "harga": 150000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #24)."
+  },
+  {
+    "id": 280,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #24)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #24)."
+  },
+  {
+    "id": 281,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #24)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #24)."
+  },
+  {
+    "id": 282,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #24)",
+    "kategori": "aksesoris",
+    "harga": 85000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #24)."
+  },
+  {
+    "id": 283,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #24)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #24)."
+  },
+  {
+    "id": 284,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #24)",
+    "kategori": "aksesoris",
+    "harga": 155000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #24)."
+  },
+  {
+    "id": 285,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #24)",
+    "kategori": "kain",
+    "harga": 225000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #24)."
+  },
+  {
+    "id": 286,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #24)",
+    "kategori": "pakaian",
+    "harga": 305000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #24)."
+  },
+  {
+    "id": 287,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #24)",
+    "kategori": "pakaian",
+    "harga": 240000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #24)."
+  },
+  {
+    "id": 288,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #24)",
+    "kategori": "aksesoris",
+    "harga": 100000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #24)."
+  },
+  {
+    "id": 289,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #25)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #25)."
+  },
+  {
+    "id": 290,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #25)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #25)."
+  },
+  {
+    "id": 291,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #25)",
+    "kategori": "aksesoris",
+    "harga": 140000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #25)."
+  },
+  {
+    "id": 292,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #25)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #25)."
+  },
+  {
+    "id": 293,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #25)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #25)."
+  },
+  {
+    "id": 294,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #25)",
+    "kategori": "aksesoris",
+    "harga": 75000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #25)."
+  },
+  {
+    "id": 295,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #25)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #25)."
+  },
+  {
+    "id": 296,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #25)",
+    "kategori": "aksesoris",
+    "harga": 145000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #25)."
+  },
+  {
+    "id": 297,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #25)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #25)."
+  },
+  {
+    "id": 298,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #25)",
+    "kategori": "pakaian",
+    "harga": 295000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #25)."
+  },
+  {
+    "id": 299,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #25)",
+    "kategori": "pakaian",
+    "harga": 265000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #25)."
+  },
+  {
+    "id": 300,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #25)",
+    "kategori": "aksesoris",
+    "harga": 125000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #25)."
+  },
+  {
+    "id": 301,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #26)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #26)."
+  },
+  {
+    "id": 302,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #26)",
+    "kategori": "kain",
+    "harga": 180000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #26)."
+  },
+  {
+    "id": 303,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #26)",
+    "kategori": "aksesoris",
+    "harga": 130000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #26)."
+  },
+  {
+    "id": 304,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #26)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #26)."
+  },
+  {
+    "id": 305,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #26)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #26)."
+  },
+  {
+    "id": 306,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #26)",
+    "kategori": "aksesoris",
+    "harga": 100000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #26)."
+  },
+  {
+    "id": 307,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #26)",
+    "kategori": "kain",
+    "harga": 225000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #26)."
+  },
+  {
+    "id": 308,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #26)",
+    "kategori": "aksesoris",
+    "harga": 135000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #26)."
+  },
+  {
+    "id": 309,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #26)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #26)."
+  },
+  {
+    "id": 310,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #26)",
+    "kategori": "pakaian",
+    "harga": 285000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #26)."
+  },
+  {
+    "id": 311,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #26)",
+    "kategori": "pakaian",
+    "harga": 255000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #26)."
+  },
+  {
+    "id": 312,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #26)",
+    "kategori": "aksesoris",
+    "harga": 115000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #26)."
+  },
+  {
+    "id": 313,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #27)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #27)."
+  },
+  {
+    "id": 314,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #27)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #27)."
+  },
+  {
+    "id": 315,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #27)",
+    "kategori": "aksesoris",
+    "harga": 120000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #27)."
+  },
+  {
+    "id": 316,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #27)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #27)."
+  },
+  {
+    "id": 317,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #27)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #27)."
+  },
+  {
+    "id": 318,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #27)",
+    "kategori": "aksesoris",
+    "harga": 90000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #27)."
+  },
+  {
+    "id": 319,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #27)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #27)."
+  },
+  {
+    "id": 320,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #27)",
+    "kategori": "aksesoris",
+    "harga": 160000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #27)."
+  },
+  {
+    "id": 321,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #27)",
+    "kategori": "kain",
+    "harga": 230000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #27)."
+  },
+  {
+    "id": 322,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #27)",
+    "kategori": "pakaian",
+    "harga": 275000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #27)."
+  },
+  {
+    "id": 323,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #27)",
+    "kategori": "pakaian",
+    "harga": 245000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #27)."
+  },
+  {
+    "id": 324,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #27)",
+    "kategori": "aksesoris",
+    "harga": 105000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #27)."
+  },
+  {
+    "id": 325,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #28)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #28)."
+  },
+  {
+    "id": 326,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #28)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #28)."
+  },
+  {
+    "id": 327,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #28)",
+    "kategori": "aksesoris",
+    "harga": 145000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #28)."
+  },
+  {
+    "id": 328,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #28)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #28)."
+  },
+  {
+    "id": 329,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #28)",
+    "kategori": "kain",
+    "harga": 180000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #28)."
+  },
+  {
+    "id": 330,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #28)",
+    "kategori": "aksesoris",
+    "harga": 80000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #28)."
+  },
+  {
+    "id": 331,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #28)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #28)."
+  },
+  {
+    "id": 332,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #28)",
+    "kategori": "aksesoris",
+    "harga": 150000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #28)."
+  },
+  {
+    "id": 333,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #28)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #28)."
+  },
+  {
+    "id": 334,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #28)",
+    "kategori": "pakaian",
+    "harga": 300000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #28)."
+  },
+  {
+    "id": 335,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #28)",
+    "kategori": "pakaian",
+    "harga": 270000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #28)."
+  },
+  {
+    "id": 336,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #28)",
+    "kategori": "aksesoris",
+    "harga": 95000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #28)."
+  },
+  {
+    "id": 337,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #29)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #29)."
+  },
+  {
+    "id": 338,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #29)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #29)."
+  },
+  {
+    "id": 339,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #29)",
+    "kategori": "aksesoris",
+    "harga": 135000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #29)."
+  },
+  {
+    "id": 340,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #29)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #29)."
+  },
+  {
+    "id": 341,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #29)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #29)."
+  },
+  {
+    "id": 342,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #29)",
+    "kategori": "aksesoris",
+    "harga": 105000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #29)."
+  },
+  {
+    "id": 343,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #29)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #29)."
+  },
+  {
+    "id": 344,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #29)",
+    "kategori": "aksesoris",
+    "harga": 140000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #29)."
+  },
+  {
+    "id": 345,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #29)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #29)."
+  },
+  {
+    "id": 346,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #29)",
+    "kategori": "pakaian",
+    "harga": 290000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #29)."
+  },
+  {
+    "id": 347,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #29)",
+    "kategori": "pakaian",
+    "harga": 260000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #29)."
+  },
+  {
+    "id": 348,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #29)",
+    "kategori": "aksesoris",
+    "harga": 120000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #29)."
+  },
+  {
+    "id": 349,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #30)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #30)."
+  },
+  {
+    "id": 350,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #30)",
+    "kategori": "kain",
+    "harga": 175000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #30)."
+  },
+  {
+    "id": 351,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #30)",
+    "kategori": "aksesoris",
+    "harga": 125000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #30)."
+  },
+  {
+    "id": 352,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #30)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #30)."
+  },
+  {
+    "id": 353,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #30)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #30)."
+  },
+  {
+    "id": 354,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #30)",
+    "kategori": "aksesoris",
+    "harga": 95000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #30)."
+  },
+  {
+    "id": 355,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #30)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #30)."
+  },
+  {
+    "id": 356,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #30)",
+    "kategori": "aksesoris",
+    "harga": 165000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #30)."
+  },
+  {
+    "id": 357,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #30)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #30)."
+  },
+  {
+    "id": 358,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #30)",
+    "kategori": "pakaian",
+    "harga": 280000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #30)."
+  },
+  {
+    "id": 359,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #30)",
+    "kategori": "pakaian",
+    "harga": 250000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #30)."
+  },
+  {
+    "id": 360,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #30)",
+    "kategori": "aksesoris",
+    "harga": 110000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #30)."
+  },
+  {
+    "id": 361,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #31)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #31)."
+  },
+  {
+    "id": 362,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #31)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #31)."
+  },
+  {
+    "id": 363,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #31)",
+    "kategori": "aksesoris",
+    "harga": 150000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #31)."
+  },
+  {
+    "id": 364,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #31)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #31)."
+  },
+  {
+    "id": 365,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #31)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #31)."
+  },
+  {
+    "id": 366,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #31)",
+    "kategori": "aksesoris",
+    "harga": 85000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #31)."
+  },
+  {
+    "id": 367,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #31)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #31)."
+  },
+  {
+    "id": 368,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #31)",
+    "kategori": "aksesoris",
+    "harga": 155000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #31)."
+  },
+  {
+    "id": 369,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #31)",
+    "kategori": "kain",
+    "harga": 225000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #31)."
+  },
+  {
+    "id": 370,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #31)",
+    "kategori": "pakaian",
+    "harga": 305000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #31)."
+  },
+  {
+    "id": 371,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #31)",
+    "kategori": "pakaian",
+    "harga": 240000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #31)."
+  },
+  {
+    "id": 372,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #31)",
+    "kategori": "aksesoris",
+    "harga": 100000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #31)."
+  },
+  {
+    "id": 373,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #32)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #32)."
+  },
+  {
+    "id": 374,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #32)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #32)."
+  },
+  {
+    "id": 375,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #32)",
+    "kategori": "aksesoris",
+    "harga": 140000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #32)."
+  },
+  {
+    "id": 376,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #32)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #32)."
+  },
+  {
+    "id": 377,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #32)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #32)."
+  },
+  {
+    "id": 378,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #32)",
+    "kategori": "aksesoris",
+    "harga": 75000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #32)."
+  },
+  {
+    "id": 379,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #32)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #32)."
+  },
+  {
+    "id": 380,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #32)",
+    "kategori": "aksesoris",
+    "harga": 145000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #32)."
+  },
+  {
+    "id": 381,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #32)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #32)."
+  },
+  {
+    "id": 382,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #32)",
+    "kategori": "pakaian",
+    "harga": 295000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #32)."
+  },
+  {
+    "id": 383,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #32)",
+    "kategori": "pakaian",
+    "harga": 265000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #32)."
+  },
+  {
+    "id": 384,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #32)",
+    "kategori": "aksesoris",
+    "harga": 125000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #32)."
+  },
+  {
+    "id": 385,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #33)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #33)."
+  },
+  {
+    "id": 386,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #33)",
+    "kategori": "kain",
+    "harga": 180000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #33)."
+  },
+  {
+    "id": 387,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #33)",
+    "kategori": "aksesoris",
+    "harga": 130000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #33)."
+  },
+  {
+    "id": 388,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #33)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #33)."
+  },
+  {
+    "id": 389,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #33)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #33)."
+  },
+  {
+    "id": 390,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #33)",
+    "kategori": "aksesoris",
+    "harga": 100000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #33)."
+  },
+  {
+    "id": 391,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #33)",
+    "kategori": "kain",
+    "harga": 225000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #33)."
+  },
+  {
+    "id": 392,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #33)",
+    "kategori": "aksesoris",
+    "harga": 135000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #33)."
+  },
+  {
+    "id": 393,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #33)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #33)."
+  },
+  {
+    "id": 394,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #33)",
+    "kategori": "pakaian",
+    "harga": 285000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #33)."
+  },
+  {
+    "id": 395,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #33)",
+    "kategori": "pakaian",
+    "harga": 255000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #33)."
+  },
+  {
+    "id": 396,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #33)",
+    "kategori": "aksesoris",
+    "harga": 115000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #33)."
+  },
+  {
+    "id": 397,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #34)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #34)."
+  },
+  {
+    "id": 398,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #34)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #34)."
+  },
+  {
+    "id": 399,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #34)",
+    "kategori": "aksesoris",
+    "harga": 120000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #34)."
+  },
+  {
+    "id": 400,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #34)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #34)."
+  },
+  {
+    "id": 401,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #34)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #34)."
+  },
+  {
+    "id": 402,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #34)",
+    "kategori": "aksesoris",
+    "harga": 90000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #34)."
+  },
+  {
+    "id": 403,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #34)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #34)."
+  },
+  {
+    "id": 404,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #34)",
+    "kategori": "aksesoris",
+    "harga": 160000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #34)."
+  },
+  {
+    "id": 405,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #34)",
+    "kategori": "kain",
+    "harga": 230000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #34)."
+  },
+  {
+    "id": 406,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #34)",
+    "kategori": "pakaian",
+    "harga": 275000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #34)."
+  },
+  {
+    "id": 407,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #34)",
+    "kategori": "pakaian",
+    "harga": 245000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #34)."
+  },
+  {
+    "id": 408,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #34)",
+    "kategori": "aksesoris",
+    "harga": 105000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #34)."
+  },
+  {
+    "id": 409,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #35)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #35)."
+  },
+  {
+    "id": 410,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #35)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #35)."
+  },
+  {
+    "id": 411,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #35)",
+    "kategori": "aksesoris",
+    "harga": 145000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #35)."
+  },
+  {
+    "id": 412,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #35)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #35)."
+  },
+  {
+    "id": 413,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #35)",
+    "kategori": "kain",
+    "harga": 180000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #35)."
+  },
+  {
+    "id": 414,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #35)",
+    "kategori": "aksesoris",
+    "harga": 80000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #35)."
+  },
+  {
+    "id": 415,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #35)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #35)."
+  },
+  {
+    "id": 416,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #35)",
+    "kategori": "aksesoris",
+    "harga": 150000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #35)."
+  },
+  {
+    "id": 417,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #35)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #35)."
+  },
+  {
+    "id": 418,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #35)",
+    "kategori": "pakaian",
+    "harga": 300000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #35)."
+  },
+  {
+    "id": 419,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #35)",
+    "kategori": "pakaian",
+    "harga": 270000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #35)."
+  },
+  {
+    "id": 420,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #35)",
+    "kategori": "aksesoris",
+    "harga": 95000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #35)."
+  },
+  {
+    "id": 421,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #36)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #36)."
+  },
+  {
+    "id": 422,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #36)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #36)."
+  },
+  {
+    "id": 423,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #36)",
+    "kategori": "aksesoris",
+    "harga": 135000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #36)."
+  },
+  {
+    "id": 424,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #36)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #36)."
+  },
+  {
+    "id": 425,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #36)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #36)."
+  },
+  {
+    "id": 426,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #36)",
+    "kategori": "aksesoris",
+    "harga": 105000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #36)."
+  },
+  {
+    "id": 427,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #36)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #36)."
+  },
+  {
+    "id": 428,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #36)",
+    "kategori": "aksesoris",
+    "harga": 140000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #36)."
+  },
+  {
+    "id": 429,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #36)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #36)."
+  },
+  {
+    "id": 430,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #36)",
+    "kategori": "pakaian",
+    "harga": 290000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #36)."
+  },
+  {
+    "id": 431,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #36)",
+    "kategori": "pakaian",
+    "harga": 260000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #36)."
+  },
+  {
+    "id": 432,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #36)",
+    "kategori": "aksesoris",
+    "harga": 120000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #36)."
+  },
+  {
+    "id": 433,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #37)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #37)."
+  },
+  {
+    "id": 434,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #37)",
+    "kategori": "kain",
+    "harga": 175000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #37)."
+  },
+  {
+    "id": 435,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #37)",
+    "kategori": "aksesoris",
+    "harga": 125000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #37)."
+  },
+  {
+    "id": 436,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #37)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #37)."
+  },
+  {
+    "id": 437,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #37)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #37)."
+  },
+  {
+    "id": 438,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #37)",
+    "kategori": "aksesoris",
+    "harga": 95000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #37)."
+  },
+  {
+    "id": 439,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #37)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #37)."
+  },
+  {
+    "id": 440,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #37)",
+    "kategori": "aksesoris",
+    "harga": 165000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #37)."
+  },
+  {
+    "id": 441,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #37)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #37)."
+  },
+  {
+    "id": 442,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #37)",
+    "kategori": "pakaian",
+    "harga": 280000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #37)."
+  },
+  {
+    "id": 443,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #37)",
+    "kategori": "pakaian",
+    "harga": 250000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #37)."
+  },
+  {
+    "id": 444,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #37)",
+    "kategori": "aksesoris",
+    "harga": 110000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #37)."
+  },
+  {
+    "id": 445,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #38)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #38)."
+  },
+  {
+    "id": 446,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #38)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #38)."
+  },
+  {
+    "id": 447,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #38)",
+    "kategori": "aksesoris",
+    "harga": 150000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #38)."
+  },
+  {
+    "id": 448,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #38)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #38)."
+  },
+  {
+    "id": 449,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #38)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #38)."
+  },
+  {
+    "id": 450,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #38)",
+    "kategori": "aksesoris",
+    "harga": 85000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #38)."
+  },
+  {
+    "id": 451,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #38)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #38)."
+  },
+  {
+    "id": 452,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #38)",
+    "kategori": "aksesoris",
+    "harga": 155000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #38)."
+  },
+  {
+    "id": 453,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #38)",
+    "kategori": "kain",
+    "harga": 225000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #38)."
+  },
+  {
+    "id": 454,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #38)",
+    "kategori": "pakaian",
+    "harga": 305000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #38)."
+  },
+  {
+    "id": 455,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #38)",
+    "kategori": "pakaian",
+    "harga": 240000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #38)."
+  },
+  {
+    "id": 456,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #38)",
+    "kategori": "aksesoris",
+    "harga": 100000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #38)."
+  },
+  {
+    "id": 457,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #39)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #39)."
+  },
+  {
+    "id": 458,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #39)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #39)."
+  },
+  {
+    "id": 459,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #39)",
+    "kategori": "aksesoris",
+    "harga": 140000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #39)."
+  },
+  {
+    "id": 460,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #39)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #39)."
+  },
+  {
+    "id": 461,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #39)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #39)."
+  },
+  {
+    "id": 462,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #39)",
+    "kategori": "aksesoris",
+    "harga": 75000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #39)."
+  },
+  {
+    "id": 463,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #39)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #39)."
+  },
+  {
+    "id": 464,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #39)",
+    "kategori": "aksesoris",
+    "harga": 145000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #39)."
+  },
+  {
+    "id": 465,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #39)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #39)."
+  },
+  {
+    "id": 466,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #39)",
+    "kategori": "pakaian",
+    "harga": 295000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #39)."
+  },
+  {
+    "id": 467,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #39)",
+    "kategori": "pakaian",
+    "harga": 265000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #39)."
+  },
+  {
+    "id": 468,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #39)",
+    "kategori": "aksesoris",
+    "harga": 125000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #39)."
+  },
+  {
+    "id": 469,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #40)",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #40)."
+  },
+  {
+    "id": 470,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #40)",
+    "kategori": "kain",
+    "harga": 180000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #40)."
+  },
+  {
+    "id": 471,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #40)",
+    "kategori": "aksesoris",
+    "harga": 130000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #40)."
+  },
+  {
+    "id": 472,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #40)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #40)."
+  },
+  {
+    "id": 473,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #40)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #40)."
+  },
+  {
+    "id": 474,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #40)",
+    "kategori": "aksesoris",
+    "harga": 100000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #40)."
+  },
+  {
+    "id": 475,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #40)",
+    "kategori": "kain",
+    "harga": 225000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #40)."
+  },
+  {
+    "id": 476,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #40)",
+    "kategori": "aksesoris",
+    "harga": 135000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #40)."
+  },
+  {
+    "id": 477,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #40)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #40)."
+  },
+  {
+    "id": 478,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #40)",
+    "kategori": "pakaian",
+    "harga": 285000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #40)."
+  },
+  {
+    "id": 479,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #40)",
+    "kategori": "pakaian",
+    "harga": 255000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #40)."
+  },
+  {
+    "id": 480,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #40)",
+    "kategori": "aksesoris",
+    "harga": 115000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #40)."
+  },
+  {
+    "id": 481,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #41)",
+    "kategori": "kain",
+    "harga": 210000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #41)."
+  },
+  {
+    "id": 482,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #41)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #41)."
+  },
+  {
+    "id": 483,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #41)",
+    "kategori": "aksesoris",
+    "harga": 120000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #41)."
+  },
+  {
+    "id": 484,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #41)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #41)."
+  },
+  {
+    "id": 485,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #41)",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #41)."
+  },
+  {
+    "id": 486,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #41)",
+    "kategori": "aksesoris",
+    "harga": 90000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #41)."
+  },
+  {
+    "id": 487,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #41)",
+    "kategori": "kain",
+    "harga": 215000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #41)."
+  },
+  {
+    "id": 488,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #41)",
+    "kategori": "aksesoris",
+    "harga": 160000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #41)."
+  },
+  {
+    "id": 489,
+    "nama": "Kain Motif Ombak Sinapur - Toska Banua (Seri #41)",
+    "kategori": "kain",
+    "harga": 230000,
+    "gambar": "",
+    "deskripsi": "Motif gelombang air yang mengalir dinamis, terinspirasi dari kehidupan sungai Kalimantan Selatan. Varian warna toska banua (Seri #41)."
+  },
+  {
+    "id": 490,
+    "nama": "Busana Kemeja Sasirangan Eksekutif - Nila Klasik (Seri #41)",
+    "kategori": "pakaian",
+    "harga": 275000,
+    "gambar": "",
+    "deskripsi": "Kemeja siap pakai berbahan nyaman dengan sentuhan motif sasirangan khas Banjarmasin. Varian warna nila klasik (Seri #41)."
+  },
+  {
+    "id": 491,
+    "nama": "Busana Blouse Sasirangan Modern - Oranye Senja (Seri #41)",
+    "kategori": "pakaian",
+    "harga": 245000,
+    "gambar": "",
+    "deskripsi": "Blouse potongan modern dengan motif sasirangan yang ringan dan cocok untuk berbagai acara. Varian warna oranye senja (Seri #41)."
+  },
+  {
+    "id": 492,
+    "nama": "Aksesori Syal Sasirangan Etnik - Putih Gading (Seri #41)",
+    "kategori": "aksesoris",
+    "harga": 105000,
+    "gambar": "",
+    "deskripsi": "Syal kain sasirangan serbaguna yang mudah dipadupadankan dengan busana polos. Varian warna putih gading (Seri #41)."
+  },
+  {
+    "id": 493,
+    "nama": "Kain Motif Gigi Haruan - Marun Emas (Seri #42)",
+    "kategori": "kain",
+    "harga": 200000,
+    "gambar": "",
+    "deskripsi": "Kain sasirangan bermotif zig-zag menyerupai gigi ikan haruan, melambangkan keteguhan dan keuletan. Varian warna marun emas (Seri #42)."
+  },
+  {
+    "id": 494,
+    "nama": "Kain Motif Kambang Kacang - Hijau Zamrud (Seri #42)",
+    "kategori": "kain",
+    "harga": 195000,
+    "gambar": "",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban, kerukunan, dan saling menghormati. Varian warna hijau zamrud (Seri #42)."
+  },
+  {
+    "id": 495,
+    "nama": "Aksesori Iris Pudak - Biru Sungai (Seri #42)",
+    "kategori": "aksesoris",
+    "harga": 145000,
+    "gambar": "",
+    "deskripsi": "Aksesori wastra bermotif irisan bunga pudak yang beraroma harum dan menawan. Varian warna biru sungai (Seri #42)."
+  },
+  {
+    "id": 496,
+    "nama": "Kain Motif Bayam Raja - Kuning Langsat (Seri #42)",
+    "kategori": "kain",
+    "harga": 220000,
+    "gambar": "",
+    "deskripsi": "Motif daun bayam raja khas Banjar yang melambangkan kemakmuran dan kewibawaan. Varian warna kuning langsat (Seri #42)."
+  },
+  {
+    "id": 497,
+    "nama": "Kain Motif Jarum Karang - Ungu Terong (Seri #42)",
+    "kategori": "kain",
+    "harga": 180000,
+    "gambar": "",
+    "deskripsi": "Pola halus bernuansa karang laut yang rapi dan elegan untuk busana formal maupun santai. Varian warna ungu terong (Seri #42)."
+  },
+  {
+    "id": 498,
+    "nama": "Aksesori Ikat Kepala Banjar - Hitam Legam (Seri #42)",
+    "kategori": "aksesoris",
+    "harga": 80000,
+    "gambar": "",
+    "deskripsi": "Ikat kepala etnik bernuansa sasirangan untuk melengkapi penampilan tradisional maupun modern. Varian warna hitam legam (Seri #42)."
+  },
+  {
+    "id": 499,
+    "nama": "Kain Motif Tampuk Manggis - Cokelat Tanah (Seri #42)",
+    "kategori": "kain",
+    "harga": 205000,
+    "gambar": "",
+    "deskripsi": "Motif tampuk buah manggis dengan komposisi simetris yang sarat filosofi Banjar. Varian warna cokelat tanah (Seri #42)."
+  },
+  {
+    "id": 500,
+    "nama": "Aksesori Kulit Taratak - Merah Bata (Seri #42)",
+    "kategori": "aksesoris",
+    "harga": 150000,
+    "gambar": "",
+    "deskripsi": "Aksesori berpola taratak khas Banua dengan perpaduan warna yang tegas. Varian warna merah bata (Seri #42)."
+  }
+]

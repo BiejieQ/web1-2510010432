@@ -421,3 +421,83 @@ input[type="checkbox"] {
     flex: 1;
     max-width: 22rem;
 }
+
+/* ---------- Tema Sungai Martapura & Sasirangan Emas ---------- */
+:root {
+  --bg-utama: #09131c;
+  --bg-kartu: #10202e;
+  --teks-utama: #f1f5f9;
+  --teks-redup: #94a3b8;
+  --aksen-emas: #fbbf24;
+  --aksen-sungai: #2dd4bf;
+  --garis-tipis: rgba(251, 191, 36, 0.22);
+  --radius: 16px;
+}
+
+.jadwal-salat {
+  position: relative;
+  overflow: hidden;
+  padding: 1.6rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--garis-tipis);
+  background:
+    radial-gradient(circle at 90% 15%, rgba(251, 191, 36, 0.16), transparent 42%),
+    radial-gradient(circle at 12% 85%, rgba(45, 212, 191, 0.16), transparent 45%),
+    linear-gradient(135deg, #0b1926 0%, #11293a 55%, #0c1f29 100%);
+  color: var(--teks-utama);
+  box-shadow: 0 14px 32px rgba(0, 0, 0, 0.45);
+}
+
+.jadwal-salat h2 {
+  margin: 0 0 0.3rem;
+  color: var(--aksen-emas);
+  letter-spacing: 0.2px;
+}
+
+.jadwal-salat .status {
+  margin: 0 0 1.1rem;
+  color: var(--teks-redup);
+}
+
+.daftar-waktu {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+  gap: 0.75rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.daftar-waktu li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.85rem 0.75rem;
+  border-radius: 12px;
+  border: 1px solid rgba(45, 212, 191, 0.25);
+  background: rgba(9, 19, 28, 0.68);
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.daftar-waktu li:hover {
+  transform: translateY(-2px);
+  border-color: var(--aksen-emas);
+}
+
+.daftar-waktu li span {
+  font-size: 0.85rem;
+  color: var(--teks-redup);
+}
+
+.daftar-waktu strong {
+  font-size: 1.35rem;
+  color: var(--aksen-sungai);
+}
+
+.jadwal-salat .sumber {
+  margin: 1rem 0 0;
+  font-size: 0.85rem;
+  color: var(--teks-redup);
+  opacity: 0.92;
+}

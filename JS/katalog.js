@@ -252,3 +252,184 @@ tombolFilter.forEach((tombol) => {
 
 // 10. Tampilkan semua produk ketika halaman pertama kali dibuka
 tampilkanKatalog(katalog);
+
+//New added Line
+// js/katalog.js
+// Memuat data katalog Sasirangan secara asinkron menggunakan Fetch API
+
+const daftarProdukEl = document.getElementById("daftar-produk");
+const filterKategoriEl = document.getElementById("filter-kategori");
+const statusKatalogEl = document.getElementById("status-katalog");
+const modalProdukEl = document.getElementById("modal-produk");
+const detailProdukEl = document.getElementById("detail-produk");
+const tutupModalBtn = document.getElementById("tutup-modal");
+
+let semuaProduk = [];
+
+function formatRupiah(angka) {
+  return "Rp " + Number(angka || 0).toLocaleString("id-ID");
+}
+
+function buatIlustrasiSvg(item) {
+  const palet = {
+    kain: ["#7c2d12", "#f59e0b", "#fef3c7"],
+    aksesoris: ["#1e3a8a", "#38bdf8", "#e0f2fe"],
+    pakaian: ["#064e3b", "#34d399", "#d1fae5"]
+  };
+  const [bg, aksen, teks] = palet[item.kategori] || ["#334155", "#cbd5e1", "#f8fafc"];
+  const label = encodeURIComponent(item.nama || "Sasirangan");
+
+  return (
+    "data:image/svg+xml;utf8," +
+    `<svg xmlns='http://www.w3.org/2000/svg' width='400' height='260' viewBox='0 0 400 260'>` +
+    `<rect width='400' height='260' fill='${bg}'/>` +
+    `<path d='M0 40 Q50 10 100 40 T200 40 T300 40 T400 40' fill='none' stroke='${aksen}' stroke-width='4'/>` +
+    `<path d='M0 220 Q50 190 100 220 T200 220 T300 220 T400 220' fill='none' stroke='${aksen}' stroke-width='4'/>` +
+    `<circle cx='200' cy='125' r='42' fill='none' stroke='${aksen}' stroke-width='3'/>` +
+    `<text x='200' y='130' text-anchor='middle' fill='${teks}' font-family='Arial, sans-serif' font-size='14' font-weight='bold'>SASIRANGAN</text>` +
+    `</svg>` +
+    `<!-- ${label} -->`
+  );
+}
+
+function tampilkanPesanStatus(pesan, isError = false) {
+  if (!statusKatalogEl) return;
+  statusKatalogEl.textContent = pesan;
+  statusKatalogEl.style.color = isError ? "#b91c1c" : "#334155";
+}
+
+function renderKatalog(items) {
+  if (!daftarProdukEl) return;
+
+  if (!Array.isArray(items) || items.length === 0) {
+    daftarProdukEl.innerHTML = "<p>Tidak ada produk yang sesuai dengan filter.</p>";
+    return;
+  }
+
+  daftarProdukEl.innerHTML = items
+    .map((item) => {
+      const sumberGambar =
+        item.gambar && item.gambar.trim() !== "" ? item.gambar : buatIlustrasiSvg(item);
+
+      return `
+        <article class="kartu-produk" data-id="${item.id}">
+          <img
+            src="${sumberGambar}"
+            alt="${item.nama}"
+            loading="lazy"
+            width="400"
+            height="260"
+          />
+          <div class="info-produk">
+            <span class="badge-kategori">${item.kategori}</span>
+            <h3>${item.nama}</h3>
+            <p class="harga-produk">${formatRupiah(item.harga)}</p>
+            <p class="deskripsi-produk">${item.deskripsi}</p>
+            <button type="button" class="btn-detail" data-id="${item.id}">
+              Lihat Detail
+            </button>
+          </div>
+        </article>
+      `;
+    })
+    .join("");
+}
+
+function bukaModalDetail(idProduk) {
+  const produk = semuaProduk.find((item) => Number(item.id) === Number(idProduk));
+  if (!produk || !modalProdukEl || !detailProdukEl) return;
+
+  const sumberGambar =
+    produk.gambar && produk.gambar.trim() !== ""
+      ? produk.gambar
+      : buatIlustrasiSvg(produk);
+
+  detailProdukEl.innerHTML = `
+    <img src="${sumberGambar}" alt="${produk.nama}" />
+    <h3>${produk.nama}</h3>
+    <p><strong>Kategori:</strong> ${produk.kategori}</p>
+    <p><strong>Harga:</strong> ${formatRupiah(produk.harga)}</p>
+    <p>${produk.deskripsi}</p>
+  `;
+
+  modalProdukEl.classList.add("aktif");
+  modalProdukEl.setAttribute("aria-hidden", "false");
+}
+
+function tutupModalDetail() {
+  if (!modalProdukEl) return;
+  modalProdukEl.classList.remove("aktif");
+  modalProdukEl.setAttribute("aria-hidden", "true");
+}
+
+async function muatKatalog() {
+  tampilkanPesanStatus("Memuat data katalog...");
+
+  try {
+    const response = await fetch("data/katalog.json");
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status} - Gagal mengambil data/katalog.json`);
+    }
+
+    const data = await response.json();
+    if (!Array.isArray(data)) {
+      throw new Error("Format data katalog tidak valid (bukan array).");
+    }
+
+    semuaProduk = data;
+    renderKatalog(semuaProduk);
+    tampilkanPesanStatus(`Menampilkan ${semuaProduk.length} produk katalog.`);
+  } catch (error) {
+    console.error("Error memuat katalog:", error);
+    if (daftarProdukEl) {
+      daftarProdukEl.innerHTML = "";
+    }
+    tampilkanPesanStatus(
+      "Gagal memuat katalog produk. Pastikan situs dijalankan lewat lokal server (bukan file://) dan berkas data/katalog.json tersedia.",
+      true
+    );
+  }
+}
+
+if (filterKategoriEl) {
+  filterKategoriEl.addEventListener("change", (event) => {
+    const kategoriDipilih = event.target.value;
+    const hasilFilter =
+      kategoriDipilih === "semua"
+        ? semuaProduk
+        : semuaProduk.filter((item) => item.kategori === kategoriDipilih);
+
+    renderKatalog(hasilFilter);
+    tampilkanPesanStatus(
+      `Menampilkan ${hasilFilter.length} produk (kategori: ${kategoriDipilih}).`
+    );
+  });
+}
+
+if (daftarProdukEl) {
+  daftarProdukEl.addEventListener("click", (event) => {
+    const tombol = event.target.closest(".btn-detail");
+    if (!tombol) return;
+    bukaModalDetail(tombol.dataset.id);
+  });
+}
+
+if (tutupModalBtn) {
+  tutupModalBtn.addEventListener("click", tutupModalDetail);
+}
+
+if (modalProdukEl) {
+  modalProdukEl.addEventListener("click", (event) => {
+    if (event.target === modalProdukEl) {
+      tutupModalDetail();
+    }
+  });
+}
+
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape") {
+    tutupModalDetail();
+  }
+});
+
+document.addEventListener("DOMContentLoaded", muatKatalog);

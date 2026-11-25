@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" width="800" height="80">
+  <defs>
+    <linearGradient id="bannerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b1926" />
+      <stop offset="50%" stop-color="#122c3d" />
+      <stop offset="100%" stop-color="#0b1926" />
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="80" rx="12" fill="url(#bannerBg)" />
+  <path d="M0 18 Q50 4 100 18 T200 18 T300 18 T400 18 T500 18 T600 18 T700 18 T800 18" fill="none" stroke="#fbbf24" stroke-width="2" opacity="0.7" />
+  <path d="M0 62 Q50 48 100 62 T200 62 T300 62 T400 62 T500 62 T600 62 T700 62 T800 62" fill="none" stroke="#2dd4bf" stroke-width="2" opacity="0.7" />
+
+  
+  <g fill="none" stroke="#fbbf24" stroke-width="1.8" opacity="0.85">
+    <polygon points="160,26 174,40 160,54 146,40" />
+    <polygon points="280,26 294,40 280,54 266,40" />
+    <polygon points="400,24 416,40 400,56 384,40" stroke="#2dd4bf" stroke-width="2.2" />
+    <polygon points="520,26 534,40 520,54 506,40" />
+    <polygon points="640,26 654,40 640,54 626,40" />
+  </g>
+</svg>

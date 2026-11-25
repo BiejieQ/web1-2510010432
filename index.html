@@ -7,6 +7,8 @@
     <title>Sasirangan Banua | Kain Khas Banjar</title>
     <link rel="stylesheet" href="css/style.css">
     <script src="js/katalog.js" defer></script>
+    <script src="js/jadwal-shalat.js" defer></script>
+    <link rel="icon" href="img/gemini-svg.svg" type="image/svg+xml" />
 </head>
 <body>
 
@@ -22,6 +24,7 @@
       </ul> 
     </nav> 
   </header>
+  
 
   <main> 
     <!-- ========== HERO ========== --> 
@@ -94,6 +97,17 @@
         </tbody> 
       </table> 
     </section> 
+
+    <!-- ========== JADWAL SALAT (data dari API) ========== -->
+<section class="bagian" id="jadwal">
+  <div class="jadwal-salat" id="jadwal-salat">
+    <h2>Jadwal Salat Banjarmasin Hari Ini</h2>
+    <p class="status" aria-live="polite">Memuat jadwal salat...</p>
+    <ul class="daftar-waktu" hidden></ul>
+    <p class="sumber">Sumber data: API MyQuran (jadwal Kemenag RI).</p>
+  </div>
+
+</section>
   </main>
 
   <!-- ========== FOOTER ========== --> 
